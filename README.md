@@ -14,3 +14,12 @@ O que é o MySkills?
   <img src="https://user-images.githubusercontent.com/99972177/185157075-badd6bd2-3457-4165-84a9-e80b6de46ce2.png" width="250"/>
   <img src="https://user-images.githubusercontent.com/99972177/185157139-09f4a501-cceb-4104-9097-6b8a3bd40d82.png" width="250"/>
 </div>
+
+## Installation
+
+Make sure that you have node and expo installed. Clone this repo and follow
+the next steps.
+
+```sh
+cd react_native_navigation
+expo start
